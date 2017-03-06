@@ -1,0 +1,43 @@
+
+body {
+  font-family: raleway;
+}
+
+.navbar-header h4 {
+  color: #333;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 50px;
+  margin: 0;
+}
+
+#tb_new_user {
+  margin-top: 100px;
+}
+
+#tb_new_user p {
+  font-size: 16px;
+}
+
+#tb_new_user p span {
+  margin-left: 10px;
+}
+
+#tb_users_table {
+  margin-top: 40px;
+}
+
+.tb-checkbox-span {
+  display: inline-block;
+  position: absolute;
+  right: 30px;
+  top: 0;
+}
+
+.modal-body .modal-footer {
+    border-top: 0;
+}
+
+.tb-edit-form .form-control {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,47 @@
+
+body {
+  font-family: raleway;
+}
+
+#tb_about_header {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#tb_about_header h2 {
+  color: #007ba8;
+  font-size: 35px;
+}
+
+#tb_about_header p {
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#tb_list {
+  padding-left: 0;
+}
+
+#tb_list li {
+  list-style: none;
+}
+
+.tb-item {
+  text-align: center;
+  background-color: #EEEEEE;
+}
+
+.tb-item h4 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.tb-item p {
+  padding: 0 10px;
+}
+
+.tb-item button {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}

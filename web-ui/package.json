@@ -1,0 +1,23 @@
+{
+  "name": "web-ui",
+  "version": "1.0.0",
+  "description": "Developing an about section web ui for Trailbee test using react.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashok Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2016": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "file-loader": "^0.10.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
